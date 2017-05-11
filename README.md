@@ -4,4 +4,6 @@
 ***
 效果图 <br>
 ![](https://github.com/polvae/CollectionViewLabels/blob/master/PlayerRecord.gif) <br>
+
+***
 感谢作者[***]()，本人只是代码的搬运工...
